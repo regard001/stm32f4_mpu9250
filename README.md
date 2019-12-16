@@ -1,4 +1,4 @@
-# stm32f4_mpu9250
+# STM32F4 MPU9250
 MPU9250 sensor with STM32 F4 microcontroller
 
 Made with the STM32CubeIDE, tested with a Nucleo-F401RE board.
